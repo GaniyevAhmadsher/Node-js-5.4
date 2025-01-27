@@ -1,0 +1,142 @@
+[
+  {
+    "_id": {
+      "$oid": "67976e212ebcf461af0cefef"
+    },
+    "userId": {
+      "_id": {
+        "$oid": "679769e92ebcf461af0cefed"
+      },
+      "username": "gamer123",
+      "email": "gamer123@gmail.com",
+      "joinDate": {
+        "$date": "2023-01-15T00:00:00.000Z"
+      },
+      "age": 20,
+      "favoriteGenres": ["FPS", "RPG"]
+    },
+    "gameId": {
+      "_id": {
+        "$oid": "6797699d2ebcf461af0cefeb"
+      },
+      "title": "Minecraft",
+      "genre": "Sandbox",
+      "price": 26.95,
+      "publisher": "Mojang",
+      "rating": 4.8,
+      "platforms": ["PC", "Mobile", "Console"],
+      "releaseDate": {
+        "$date": "2011-11-18T00:00:00.000Z"
+      }
+    },
+    "purchaseDate": {
+      "$date": "2024-01-20T00:00:00.000Z"
+    },
+    "price": 24.95
+  },
+  {
+    "_id": {
+      "$oid": "67976eb12ebcf461af0ceff0"
+    },
+    "userId": {
+      "_id": {
+        "$oid": "679769e92ebcf461af0cefee"
+      },
+      "username": "player_one",
+      "email": "player1@gmail.com",
+      "joinDate": {
+        "$date": "2023-02-20T00:00:00.000Z"
+      },
+      "age": 25,
+      "favoriteGenres": ["Sandbox", "Strategy"]
+    },
+    "gameId": {
+      "_id": {
+        "$oid": "6797699d2ebcf461af0cefec"
+      },
+      "title": "Counter-Strike 2",
+      "genre": "FPS",
+      "price": 0,
+      "publisher": "Valve",
+      "rating": 4.5,
+      "platforms": ["PC"],
+      "releaseDate": {
+        "$date": "2023-09-27T00:00:00.000Z"
+      }
+    },
+    "purchaseDate": {
+      "$date": "2024-01-20T00:00:00.000Z"
+    },
+    "price": 19.85
+  },
+  {
+    "_id": {
+      "$oid": "67977c9a058c1defd398ffad"
+    },
+    "userId": {
+      "_id": {
+        "$oid": "679769e92ebcf461af0cefed"
+      },
+      "username": "gamer123",
+      "email": "gamer123@gmail.com",
+      "joinDate": {
+        "$date": "2023-01-15T00:00:00.000Z"
+      },
+      "age": 21,
+      "favoriteGenres": ["FPS", "RPG"]
+    },
+    "gameId": {
+      "_id": {
+        "$oid": "6797699d2ebcf461af0cefec"
+      },
+      "title": "Counter-Strike 2",
+      "genre": "FPS",
+      "price": 18.85,
+      "publisher": "Valve",
+      "rating": 4.5,
+      "platforms": ["PC"],
+      "releaseDate": {
+        "$date": "2023-09-27T00:00:00.000Z"
+      }
+    },
+    "purchaseDate": {
+      "$date": "2024-01-24T00:00:00.000Z"
+    },
+    "price": 28.63
+  },
+  {
+    "_id": {
+      "$oid": "67978190058c1defd398ffb0"
+    },
+    "userId": {
+      "_id": {
+        "$oid": "679780a422b39f0dc0fce193"
+      },
+      "username": "killer_one",
+      "email": "killer1@gmail.com",
+      "joinDate": {
+        "$date": "2024-08-25T00:00:00.000Z"
+      },
+      "age": 18,
+      "favoriteGenres": ["PDN", "RGB"]
+    },
+    "gameId": {
+      "_id": {
+        "$oid": "67977f2a058c1defd398ffae"
+      },
+      "title": "Art of War 2",
+      "genre": "RPG",
+      "price": 23.7,
+      "publisher": "Shadow",
+      "rating": 4.1,
+      "platforms": ["Mobile", "Tablet"],
+      "releaseDate": {
+        "$date": "2023-11-14T00:00:00.000Z"
+      }
+    },
+    "purchaseDate": {
+      "$date": "2024-01-20T00:00:00.000Z"
+    },
+    "price": 17.59
+  }
+]

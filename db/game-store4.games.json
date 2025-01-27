@@ -1,0 +1,44 @@
+[
+  {
+    "_id": {
+      "$oid": "6797699d2ebcf461af0cefeb"
+    },
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "price": 26.95,
+    "publisher": "Mojang",
+    "rating": 4.8,
+    "platforms": ["PC", "Mobile", "Console"],
+    "releaseDate": {
+      "$date": "2011-11-18T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6797699d2ebcf461af0cefec"
+    },
+    "title": "Counter-Strike 2",
+    "genre": "FPS",
+    "price": 18.85,
+    "publisher": "Valve",
+    "rating": 4.5,
+    "platforms": ["PC"],
+    "releaseDate": {
+      "$date": "2023-09-27T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67977f2a058c1defd398ffae"
+    },
+    "title": "Art of War 2",
+    "genre": "RPG",
+    "price": 23.7,
+    "publisher": "Shadow",
+    "rating": 4.1,
+    "platforms": ["Mobile", "Tablet"],
+    "releaseDate": {
+      "$date": "2023-11-14T00:00:00.000Z"
+    }
+  }
+]

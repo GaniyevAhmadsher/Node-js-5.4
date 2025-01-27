@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "679769e92ebcf461af0cefed"
+  },
+  "username": "gamer123",
+  "email": "gamer123@gmail.com",
+  "joinDate": {
+    "$date": "2023-01-15T00:00:00.000Z"
+  },
+  "age": 21,
+  "favoriteGenres": [
+    "FPS",
+    "RPG"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679769e92ebcf461af0cefee"
+  },
+  "username": "player_one",
+  "email": "player1@gmail.com",
+  "joinDate": {
+    "$date": "2023-02-20T00:00:00.000Z"
+  },
+  "age": 25,
+  "favoriteGenres": [
+    "Sandbox",
+    "Strategy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679780a422b39f0dc0fce193"
+  },
+  "username": "killer_one",
+  "email": "killer1@gmail.com",
+  "joinDate": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  },
+  "age": 18,
+  "favoriteGenres": [
+    "PDN",
+    "RGB"
+  ]
+}]
